@@ -104,4 +104,9 @@
   --rp-container-focus-outline-width: 0px;
   --rp-container-focus-outline-color: var(--rp-primary-color);
   --rp-container-focus-outline-offset: 2px;
+  /* Skip link */
+  --rp-skip-link-font-size: 14px;
+  --rp-skip-link-color: #ffffff;
+  --rp-skip-link-background-color: #0075cb;
+  --rp-skip-link-border-color: #005da5;
 }
