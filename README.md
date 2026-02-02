@@ -192,7 +192,7 @@ Here are some sample projects to get started on React PDF quickly:
 
 # 📝 Changelog
 
-Check out our latest release [v1.15.0 (23 December 2025)](https://docs.react-pdf.dev/introduction/changelog/#v1150-23-december-2025?utm_source=github&utm_medium=referral)
+Check out our latest release [v1.16.0 (7 January 2026)](https://docs.react-pdf.dev/introduction/changelog/#v1160-7-january-2026?utm_source=github&utm_medium=referral)
 
 
 # :raising_hand: Need Help?
