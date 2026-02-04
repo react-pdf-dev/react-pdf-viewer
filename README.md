@@ -203,7 +203,7 @@ We are more than happy to help you. If you have any questions, run into any erro
 
 React PDF is distributed under our proprietary license. Please refer to our [License page](https://www.react-pdf.dev/license-agreement?utm_source=github&utm_medium=referral) file for more details.
 
-If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [https://www.react-pdf.dev/contact-us](https://www.react-pdf.dev/contact-us).
+If you would like to use React PDF commercially, please purchase a license from [our website][reactpdf] or reach out to us directly at [https://www.react-pdf.dev/contact-us](https://www.react-pdf.dev/contact-us?utm_source=github&utm_medium=referral).
 
 
 # Acknowledgement
